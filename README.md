@@ -8,9 +8,10 @@ The data came from [Home Office statistics](https://www.gov.uk/government/statis
 
 ## Data
 
-* [Football-related arrests by club supported and offence type in the Premier League, 2014-15 football season](https://github.com/BBC-Data-Unit/football-banning-orders/blob/master/arrests-by-club-offence-PremierLeague1415.csv)
-* [Football-related arrests by club supported and offence type in the Championship, 2014-15 football season](https://github.com/BBC-Data-Unit/football-banning-orders/blob/master/arrests-by-club-offence-Championship1415.csv)
+* [New football banning orders1 by club supported, 4 September 2014 to 8 September 2015](https://github.com/BBC-Data-Unit/football-banning-orders/blob/master/footballbanningorders_201415.csv) (Table 3 on the original data linked below)
 * Home Office statistics page: [Football-related arrests and banning orders season 2014 to 2015](https://www.gov.uk/government/statistics/football-related-arrests-and-banning-orders-season-2014-to-2015)
 * Direct link to datasets (17 sheets): [Football-related arrests and banning orders: season 2014 to 2015, data tables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479388/football-tabs-1415.ods). This includes further data on arrests by club and and offense in leagues 1 and 2, and the Football Conference, banning orders by club and league, British Transport Police arrests by type, and attendances.
+* [Football-related arrests by club supported and offence type in the Premier League, 2014-15 football season](https://github.com/BBC-Data-Unit/football-banning-orders/blob/master/arrests-by-club-offence-PremierLeague1415.csv)
+* [Football-related arrests by club supported and offence type in the Championship, 2014-15 football season](https://github.com/BBC-Data-Unit/football-banning-orders/blob/master/arrests-by-club-offence-Championship1415.csv)
 
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/football-banning-orders/master/Clubs_with_most_banned_fans_Championship_1415.png)
