@@ -8,7 +8,7 @@ The data came from [Home Office statistics](https://www.gov.uk/government/statis
 
 ## Data
 
-* [New football banning orders1 by club supported, 4 September 2014 to 8 September 2015](https://github.com/BBC-Data-Unit/football-banning-orders/blob/master/footballbanningorders_201415.csv) (Table 3 on the original data linked below)
+* [New football banning orders1 by club supported, 4 September 2014 to 8 September 2015](https://github.com/BBC-Data-Unit/football-banning-orders/blob/master/footballbanningorders_201415.csv). This is a cleaned version of Table 3 in the Home Office data linked below, so that all clubs and bans are in the same column.
 * Home Office statistics page: [Football-related arrests and banning orders season 2014 to 2015](https://www.gov.uk/government/statistics/football-related-arrests-and-banning-orders-season-2014-to-2015)
 * Direct link to datasets (17 sheets): [Football-related arrests and banning orders: season 2014 to 2015, data tables](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479388/football-tabs-1415.ods). This includes further data on arrests by club and and offense in leagues 1 and 2, and the Football Conference, banning orders by club and league, British Transport Police arrests by type, and attendances.
 * [Football-related arrests by club supported and offence type in the Premier League, 2014-15 football season](https://github.com/BBC-Data-Unit/football-banning-orders/blob/master/arrests-by-club-offence-PremierLeague1415.csv)
