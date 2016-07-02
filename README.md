@@ -1,6 +1,6 @@
 # Football banning orders fall as figures reveal bad behaviour
 
-![](https://raw.githubusercontent.com/BBC-Data-Unit/football-banning-orders/master/Clubs_with_most_banned_fans_Premier_League_1415.png)
+![Image by Rob Radburn](https://pbs.twimg.com/media/CjfN-zzXEAAd4fF.jpg)
 
 In November 2015 we [reported on a fall in the number of football banning orders issued to badly-behaved fans](http://www.bbc.co.uk/news/uk-england-34936495).
 
@@ -8,9 +8,7 @@ The data came from [Home Office statistics](https://www.gov.uk/government/statis
 
 ## Visualisation
 
-Rob Radburn used the data here to produce [this interactive visualisation using Tableau](https://public.tableau.com/profile/publish/FootballRelatedarrests/FootballRelatedArrests#!/publish-confirm)
-
-![](https://pbs.twimg.com/media/CjfN-zzXEAAd4fF.jpg)
+Rob Radburn used the data here to produce the visualisation shown above. You can see [an interactive version using Tableau here](https://public.tableau.com/profile/publish/FootballRelatedarrests/FootballRelatedArrests#!/publish-confirm).
 
 ## Data
 
@@ -21,3 +19,5 @@ Rob Radburn used the data here to produce [this interactive visualisation using 
 * [Football-related arrests by club supported and offence type in the Championship, 2014-15 football season](https://github.com/BBC-Data-Unit/football-banning-orders/blob/master/arrests-by-club-offence-Championship1415.csv)
 
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/football-banning-orders/master/Clubs_with_most_banned_fans_Championship_1415.png)
+
+![](https://raw.githubusercontent.com/BBC-Data-Unit/football-banning-orders/master/Clubs_with_most_banned_fans_Premier_League_1415.png)
