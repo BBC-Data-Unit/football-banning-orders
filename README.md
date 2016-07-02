@@ -6,6 +6,12 @@ In November 2015 we [reported on a fall in the number of football banning orders
 
 The data came from [Home Office statistics](https://www.gov.uk/government/statistics/football-related-arrests-and-banning-orders-season-2014-to-2015). In this repository we share a link to the original data and to a simplified CSV version of that.
 
+## Visualisation
+
+Rob Radburn used the data here to produce [this interactive visualisation using Tableau](https://public.tableau.com/profile/publish/FootballRelatedarrests/FootballRelatedArrests#!/publish-confirm)
+
+![](https://pbs.twimg.com/media/CjfN-zzXEAAd4fF.jpg)
+
 ## Data
 
 * [New football banning orders1 by club supported, 4 September 2014 to 8 September 2015](https://github.com/BBC-Data-Unit/football-banning-orders/blob/master/footballbanningorders_201415.csv). This is a cleaned version of Table 3 in the Home Office data linked below, so that all clubs and bans are in the same column.
